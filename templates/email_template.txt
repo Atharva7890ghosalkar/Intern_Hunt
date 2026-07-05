@@ -1,0 +1,18 @@
+Dear {RECRUITER_NAME} {TITLE},
+
+I hope you are doing well.
+
+I am writing to express my interest in the {ROLE_NAME} opportunity at {COMPANY_NAME}. I am currently pursuing a degree in Artificial Intelligence and Machine Learning and have developed strong skills in Machine Learning, Data Analysis, Python, and AI application development through academic projects and hands-on experience.
+
+My experience includes developing projects such as an AI-Powered Legal Document simplification & Guidance System, Dataset Poisoning Detection System, Online Project Review Platform and other machine learning applications, which have strengthened my problem-solving and technical abilities.
+
+I believe my background aligns well with the requirements of this opportunity, and I would welcome the chance to contribute to your team while continuing to learn and grow professionally.
+
+I have attached my resume for your review. Thank you for your time and consideration. I look forward to hearing from you.
+
+Sincerely,
+
+Atharva Rajendra Ghosalkar
+ +91 8421563652
+GitHub: github.com/Atharva7890ghosalkar
+LinkedIn: linkedin.com/in/atharvaghosalkar1216
